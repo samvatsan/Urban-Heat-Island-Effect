@@ -1,7 +1,7 @@
 # Urban-Heat-Island-Effect
-NASA STEM Enhancement in Earth Sciences, 2021
+Paper: Projecting the Urban Heat Island Effect Using Historical Climate Trends and Land Use-Land Cover (NASA STEM Enhancement in Earth Sciences, 2021)
 
-One half of a dual mathematical/machine learning framework approach to forecasting the urban heat island and urban sprawl in the Greater Austin area (TX).
+Project Objective: One half of a dual mathematical/machine learning framework approach to forecasting the urban heat island and urban sprawl in the Greater Austin area (TX).
 
 Authors: Sam Srivatsan, Moneel Patel
 Acknowledgements: Sara Mierzwiak, Yitong Jiang, Olawale Oluwafemi, Kevin Czajkowski
