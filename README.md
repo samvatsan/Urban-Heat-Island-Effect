@@ -5,4 +5,5 @@ Project Objective: One half of a dual mathematical/machine learning framework ap
 
 Authors: Sam Srivatsan, Moneel Patel
 Acknowledgements: Sara Mierzwiak, Yitong Jiang, Olawale Oluwafemi, Kevin Czajkowski
+
 Affiliates: NASA SEES, GLOBE Mission Earth, University of Toledo, University of Texas @ Austin, Texas Space Grant Consortium, American Geophysical Union
